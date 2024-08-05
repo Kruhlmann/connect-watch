@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+touch ./tests/hooks/run.down

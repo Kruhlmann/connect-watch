@@ -1,0 +1,8 @@
+src/gescraft/version.py
+__pycache__/
+.coverage
+coverage.xml
+htmlcov
+*.egg-info/
+build/
+venv
